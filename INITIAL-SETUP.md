@@ -18,4 +18,4 @@
 - Passed all required checks for promotion 
 
 ## Successful Installation
-![AD Installation Success](screenshots/AD%20Installation%20Success.jpg)
+![AD Installation Success](Screenshots/AD-Install_Success.jpg)
